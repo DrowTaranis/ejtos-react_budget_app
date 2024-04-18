@@ -1,0 +1,120 @@
+
+form {
+    background-color: #B3ECDF;
+    width: 180px;
+    height: 160px;
+    float: right;
+    margin-right: 27%;
+margin-top: -55px;
+padding: 9px;
+border-radius: 5px;
+font-family: Helvetica;
+margin-bottom: 50px;
+}
+
+form select {
+background-color: #D7E2CE;
+float: right;
+width: 110px;
+margin-top: 2px;
+}
+
+#currLabel {
+    color: #2C5048;
+}
+
+
+
+select option:hover {
+    background-color: #DDEAF3;
+}
+
+p {
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+
+}
+
+.col1 {
+    background-color: #DDEAF3;
+}
+
+.csign1 {
+    position: relative;
+    top: -521px;
+    left: 74px;
+}
+
+.csign2 {
+    position: relative;
+    top: -523px;
+    left: 530px;
+}
+
+.csign3 {
+    position: relative;
+    top: -523px;
+    left: 971px;
+}
+
+.csign4 {
+    position: relative;
+    top: -354px;
+    left: 272px;
+}
+
+.csign5 {
+    position: relative;
+    top: -309px;
+    left: 265px;
+}
+
+.csign6 {
+    position: relative;
+    top: -264px;
+    left: 257px;
+}
+
+.csign7 {
+    position: relative;
+    top: -219px;
+    left: 247px;
+}
+
+.csign8 {
+    position: relative;
+    top: -173px;
+    left: 237px;
+}
+
+.csign9 {
+    position: relative;
+    top: -52px;
+    left: 392px;
+}
+
+.plusButt {
+    background-image: url('pluspicb.png');
+    background-repeat: no-repeat;
+background-position: 50% 50%;
+border: 0px hidden black;
+border-radius: 50%;
+background-color: #4FAC5C;
+width: 25px;
+height:  25px;
+margin: -1px;
+line-height: 0.5em;
+}
+
+.minusButt {
+    background-image: url('minuspic.png');
+    background-repeat: no-repeat;
+background-position: 50% 50%;
+border: 0px hidden black;
+border-radius: 50%;
+background-color: #AF2419;
+width: 25px;
+height:  25px;
+margin: -1px;
+line-height: 0.5em;
+}
